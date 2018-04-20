@@ -7,5 +7,5 @@ Commodore 64 TempleOS Theme
 
 Video demo: https://streamable.com/a7yq6
 
-Video of Terry viewing it: https://youtu.be/veU3Qp7wo_k?t=19m15s
+Bonus video of Terry viewing it: https://youtu.be/veU3Qp7wo_k?t=19m15s
 
